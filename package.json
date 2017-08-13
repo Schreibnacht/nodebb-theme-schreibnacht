@@ -1,25 +1,25 @@
 {
-  "name": "nodebb-theme-lavender",
+  "name": "nodebb-theme-schreibnacht",
   "version": "4.0.1",
-  "description": "Lavender Theme for NodeBB",
+  "description": "Schreibnacht Theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/nodebb-theme-lavender"
+    "url": "https://github.com/Schreibnacht/nodebb-theme-schreibnacht"
   },
   "keywords": [
     "nodebb",
-    "lavender",
+    "schreibnacht",
     "theme",
     "themes"
   ],
   "author": {
-    "name": "psychobunny",
-    "email": "psycho.bunny@hotmail.com"
+    "name": "Radiergummi",
+    "email": "m@9dev.de"
   },
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/NodeBB/nodebb-theme-lavender/issues"
+    "url": "https://github.com/Schreibnacht/nodebb-theme-schreibnacht/issues"
   },
   "nbbpm": {
     "compatibility": "^1.4.4"

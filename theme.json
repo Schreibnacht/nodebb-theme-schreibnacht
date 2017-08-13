@@ -1,8 +1,8 @@
 {
-    "id": "nodebb-theme-lavender",
-    "name": "Lavender",
-    "description": "A theme that utilizes a masonry (magazine-like) homepage.",
-    "url": "https://github.com/NodeBB/nodebb-theme-lavender",
+    "id": "nodebb-theme-schreibnacht",
+    "name": "Schreibnacht",
+    "description": "Custom theme for schreibnacht.de",
+    "url": "https://github.com/Schreibnacht/nodebb-theme-schreibnacht",
     "screenshot": "screenshot.png",
     "baseTheme": "nodebb-theme-vanilla"
 }

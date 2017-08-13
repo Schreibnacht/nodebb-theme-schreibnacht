@@ -1,8 +1,7 @@
-Lavender Theme for NodeBB
-=========================
+Schreibnacht Theme for NodeBB
+=============================
 
-A simple theme for NodeBB. Check out the theming guide that accompanies this work at http://burnaftercompiling.com/nodebb/nodebb-hands-on-theming-guide-part-1/
-
+A custom theme for Schreibnacht.de, based on the [Lavender theme](https://github.com/NodeBB/nodebb-theme-lavender) by [Psychobunny](https://github.com/Psychobunny).
 
 ## Screenshots
 
@@ -24,5 +23,5 @@ A simple theme for NodeBB. Check out the theming guide that accompanies this wor
 
 
 ## Credits
-
+Theme is a clone of Lavender.
 variables.less modified from "White Plum" by [divshot](https://github.com/divshot/)

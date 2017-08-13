@@ -1,28 +1,33 @@
 .categories {
+  h4 {
+    white-space:   normal;
+    text-overflow: initial;
+  }
 
-	@media screen and (min-width: @screen-md-min) {
-		.col-md-3 {
-			width: 24.5%; // firefox rounds up, webkit runs down. go figure...
-		}
+  .forum-stats {
+    padding-top: 0;
+  }
 
-	}
-	@media screen and (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {
-		.col-sm-6 {
-			width: 48.5%;
-		}
-	}
+  .category-item {
+    margin-bottom: 15px;
+  }
 
-	h4 {
-		white-space: normal;
-		text-overflow: initial;
-	}
+  .masonry {
+    margin-left:  0;
+    margin-right: 0;
+  }
 
-	.forum-stats {
-		padding-top:0px;
-	}
+  @media screen and (min-width: @screen-md-min) {
+    .col-md-3 {
+      width: 24.5%; // firefox rounds up, webkit runs down. go figure...
+    }
 
-	.category-item {
-		margin-bottom: 15px;
-	}
+  }
+  @media screen and (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {
+    .col-sm-6 {
+      width: 48.5%;
+    }
+  }
+
 }
 
